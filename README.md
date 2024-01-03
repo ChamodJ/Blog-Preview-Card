@@ -40,4 +40,4 @@ Users should be able to:
 e. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ChamodJ](https://www.frontendmentor.io/profile/ChamodJ)
